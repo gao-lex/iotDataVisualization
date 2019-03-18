@@ -22,3 +22,7 @@ python3 design.py
 ```
 
 数据库使用 sqlite3 ，可用 DB Browser 浏览数据库数据。
+
+# 运行结果
+
+![](./images/运行结果.png)
